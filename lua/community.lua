@@ -23,5 +23,6 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.toml" },
+  { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
   { import = "astrocommunity.terminal-integration.toggleterm-manager-nvim" },
 }
