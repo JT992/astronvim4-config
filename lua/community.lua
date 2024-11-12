@@ -21,6 +21,7 @@ return {
   -- { import = "astrocommunity.pack.nix" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
