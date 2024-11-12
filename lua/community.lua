@@ -11,6 +11,7 @@ return {
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.editing-support.refactoring-nvim" },
   { import = "astrocommunity.editing-support.vim-move" },
+  { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
   { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.pack.ansible" },
   { import = "astrocommunity.pack.bash" },
