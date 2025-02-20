@@ -25,6 +25,7 @@ return {
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.toml" },
+  { import = "astrocommunity.pack.java" },
   { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
   { import = "astrocommunity.terminal-integration.toggleterm-manager-nvim" },
 }
