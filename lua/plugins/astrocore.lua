@@ -46,6 +46,7 @@ return {
         -- second key is the lefthand side of the map
 
         ["<Leader>W"] = { ":wa<cr>", desc = "Save All" },
+        ["<Leader>M"] = { ":!mdbook build<cr>", desc = "mdbook build" },
         -- navigate buffer tabs with `H` and `L`
         -- L = {
         --   function() require("astrocore.buffer").nav(vim.v.count > 0 and vim.v.count or 1) end,
